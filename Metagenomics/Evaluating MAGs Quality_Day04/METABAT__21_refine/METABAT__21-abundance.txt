@@ -1,0 +1,2 @@
+bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
+abundance	1.755898148993031	1.1190770641764347	0.5683903705423091

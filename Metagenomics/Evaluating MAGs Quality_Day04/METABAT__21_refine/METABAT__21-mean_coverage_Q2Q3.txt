@@ -1,0 +1,2 @@
+bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
+mean_coverage_Q2Q3	7.8616516346083865	4.90822020000536	3.0821456533021783

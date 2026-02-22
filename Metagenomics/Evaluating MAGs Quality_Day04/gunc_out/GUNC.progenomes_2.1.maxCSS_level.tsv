@@ -1,0 +1,2 @@
+genome	n_genes_called	n_genes_mapped	n_contigs	taxonomic_level	proportion_genes_retained_in_major_clades	genes_retained_index	clade_separation_score	contamination_portion	n_effective_surplus_clades	mean_hit_identity	reference_representation_score	pass.GUNC
+METABAT__21-contigs	1973	1896	262	kingdom	0.99	0.95	0.0	0.0	0.0	0.83	0.79	True

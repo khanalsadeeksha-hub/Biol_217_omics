@@ -1,0 +1,2 @@
+bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
+detection	0.9853623501944329	0.9223212903183297	0.8305452357080025

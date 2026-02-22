@@ -1,0 +1,2 @@
+bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
+mean_coverage	8.225596504271374	5.302278065928177	3.4923813717813696
