@@ -1,2 +1,0 @@
-bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
-std_coverage	4.211184240421493	3.4787808152786943	2.7852982307277863

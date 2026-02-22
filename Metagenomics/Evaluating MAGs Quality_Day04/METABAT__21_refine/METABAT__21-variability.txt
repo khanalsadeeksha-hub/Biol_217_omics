@@ -1,2 +1,0 @@
-bin	BGR_130305_mapped_sorted	BGR_130527_mapped_sorted	BGR_130708_mapped_sorted
-variability	3.8337486286469207	0.8818390572338807	0.4447631608713844
