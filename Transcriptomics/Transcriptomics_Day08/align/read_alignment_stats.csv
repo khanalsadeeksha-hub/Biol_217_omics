@@ -1,0 +1,37 @@
+Species	Statistic	mut_R1	mut_R2	wt_R1	wt_R2
+all	No. of input reads	5988519	6824347	3767973	4776112
+all	No. of reads - PolyA detected and removed	2144260	2403217	937751	1535039
+all	No. of reads - Single 3' A removed	859020	1059398	679502	816395
+all	No. of reads - Unmodified	2985239	3361732	2150720	2424678
+all	No. of reads - Removed as too short	53452	43620	12829	21206
+all	No. of reads - Long enough and used for alignment	5935067	6780727	3755144	4754906
+all	Total no. of aligned reads	5650898	6518205	3643371	4542608
+all	Total no. of unaligned reads	284169	262522	111773	212298
+all	Total no. of uniquely aligned reads	5105212	5873595	3318637	4129965
+all	Total no. of split aligned reads	0	0	0	0
+all	Total no. of multiple aligned reads	545686	644610	324734	412643
+all	Total no. of cross aligned reads	0	0	0	0
+all	Total no. of alignments	6845497	7909190	4348116	5423609
+all	Percentage of aligned reads (compared to no. of input reads)	94.36	95.51	96.69	95.11
+all	Percentage of aligned reads (compared to no. of long enough reads)	95.21	96.13	97.02	95.54
+all	Percentage of uniquely aligned reads (in relation to all aligned reads)	90.34	90.11	91.09	90.92
+all	Percentage of split aligned reads (in relation to all aligned reads)	0.0	0.0	0.0	0.0
+all	Percentage of multiple aligned reads (in relation to all aligned reads)	9.66	9.89	8.91	9.08
+all	Percentage of cross aligned reads (in relation to all aligned reads)	0.0	0.0	0.0	0.0
+Methanosarcina mazei Gö1	Total no. of aligned reads	5650898	6518205	3643371	4542608
+Methanosarcina mazei Gö1	Total no. of uniquely aligned reads	5105212	5873595	3318637	4129965
+Methanosarcina mazei Gö1	Total no. of split aligned reads	0	0	0	0
+Methanosarcina mazei Gö1	Total no. of multiple aligned reads	545686	644610	324734	412643
+Methanosarcina mazei Gö1	Total no. of cross aligned reads	0	0	0	0
+Methanosarcina mazei Gö1	Total no. of alignments	6845497	7909190	4348116	5423609
+Methanosarcina mazei Gö1	Percentage of aligned reads (compared to no. of input reads)	94.36	95.51	96.69	95.11
+Methanosarcina mazei Gö1	Percentage of aligned reads (compared to no. of long enough reads)	95.21	96.13	97.02	95.54
+Methanosarcina mazei Gö1	Percentage of uniquely aligned reads (in relation to all aligned reads)	90.34	90.11	91.09	90.92
+Methanosarcina mazei Gö1	Percentage of split aligned reads (in relation to all aligned reads)	0.0	0.0	0.0	0.0
+Methanosarcina mazei Gö1	Percentage of multiple aligned reads (in relation to all aligned reads)	9.66	9.89	8.91	9.08
+Methanosarcina mazei Gö1	Percentage of cross aligned reads (in relation to all aligned reads)	0.0	0.0	0.0	0.0
+Methanosarcina mazei Gö1	NC_003901.1 - No. of aligned reads	5650898	6518205	3643371	4542608
+Methanosarcina mazei Gö1	NC_003901.1 - No. of uniquely aligned reads	5105212	5873595	3318637	4129965
+Methanosarcina mazei Gö1	NC_003901.1 - No. of split aligned reads	0	0	0	0
+Methanosarcina mazei Gö1	NC_003901.1 - No. of multiple aligned reads	545686	644610	324734	412643
+Methanosarcina mazei Gö1	NC_003901.1 - No. of alignments	6845497	7909190	4348116	5423609

@@ -1,0 +1,5 @@
+	Total no. of uniquely aligned reads	Total no. of split aligned reads	Total no. of multiple aligned reads	Total no. of cross aligned reads
+mut_R1	5105212.0	0.0	545686.0	0.0
+mut_R2	5873595.0	0.0	644610.0	0.0
+wt_R1	3318637.0	0.0	324734.0	0.0
+wt_R2	4129965.0	0.0	412643.0	0.0
