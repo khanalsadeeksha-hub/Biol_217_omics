@@ -3,7 +3,7 @@
 #January – February 2026
 #Christian ALbrechts Universitat zu Kiel 
 
-#this was taught by Taught by: Cynthia, Katharina, Almut, Hendrik, and Vincent and AG Schmitz-Streit
+#this was taught by: Cynthia, Katharina, Almut, Hendrik, and Vincent and AG Schmitz-Streit
 
 
 #This repository contains the codes and results from this course.
