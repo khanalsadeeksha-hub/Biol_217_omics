@@ -1,0 +1,87 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                        3_hybrid_assembly
+# contigs (>= 0 bp)             7                
+# contigs (>= 1000 bp)          4                
+# contigs (>= 5000 bp)          4                
+# contigs (>= 10000 bp)         3                
+# contigs (>= 25000 bp)         3                
+# contigs (>= 50000 bp)         3                
+Total length (>= 0 bp)          4454332          
+Total length (>= 1000 bp)       4453091          
+Total length (>= 5000 bp)       4453091          
+Total length (>= 10000 bp)      4443965          
+Total length (>= 25000 bp)      4443965          
+Total length (>= 50000 bp)      4443965          
+# contigs                       5                
+Largest contig                  4332314          
+Total length                    4453949          
+Reference length                -                
+Estimated reference length      -                
+GC (%)                          45.71            
+Reference GC (%)                -                
+N50                             4332314          
+NG50                            -                
+N90                             4332314          
+NG90                            -                
+auN                             4215421.0        
+auNG                            -                
+L50                             1                
+LG50                            -                
+L90                             1                
+LG90                            -                
+# total reads                   -                
+# left                          -                
+# right                         -                
+Mapped (%)                      -                
+Reference mapped (%)            -                
+Properly paired (%)             -                
+Reference properly paired (%)   -                
+Avg. coverage depth             -                
+Reference avg. coverage depth   -                
+Coverage >= 1x (%)              -                
+Reference coverage >= 1x (%)    -                
+# large blocks misassemblies    -                
+# misassemblies                 -                
+# misassembled contigs          -                
+Misassembled contigs length     -                
+# local misassemblies           -                
+# scaffold gap ext. mis.        -                
+# scaffold gap loc. mis.        -                
+# structural variations         -                
+# possible TEs                  -                
+# unaligned mis. contigs        -                
+# unaligned contigs             -                
+Unaligned length                -                
+Genome fraction (%)             -                
+Duplication ratio               -                
+Avg contig read support         -                
+# N's per 100 kbp               0.00             
+# mismatches per 100 kbp        -                
+# indels per 100 kbp            -                
+# genomic features              -                
+# operons                       -                
+Complete BUSCO (%)              -                
+Partial BUSCO (%)               -                
+# predicted genes (unique)      2495             
+# predicted genes (>= 0 bp)     2520 + 0 part    
+# predicted genes (>= 300 bp)   2445 + 0 part    
+# predicted genes (>= 1500 bp)  816 + 0 part     
+# predicted genes (>= 3000 bp)  216 + 0 part     
+# predicted rRNA genes          15 + 0 part      
+Largest alignment               -                
+Total aligned length            -                
+NA50                            -                
+NGA50                           -                
+NA90                            -                
+NGA90                           -                
+auNA                            -                
+auNGA                           -                
+LA50                            -                
+LGA50                           -                
+LA90                            -                
+LGA90                           -                
+K-mer-based compl. (%)          -                
+K-mer-based cor. length (%)     -                
+K-mer-based mis. length (%)     -                
+# k-mer-based misjoins          -                
