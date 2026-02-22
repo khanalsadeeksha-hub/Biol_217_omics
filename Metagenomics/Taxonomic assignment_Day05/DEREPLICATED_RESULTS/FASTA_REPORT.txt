@@ -1,0 +1,2 @@
+name	source	cluster	cluster_rep	path
+MAG_21	internal	cluster_000001	MAG_21	GENOMES/MAG_21.fa

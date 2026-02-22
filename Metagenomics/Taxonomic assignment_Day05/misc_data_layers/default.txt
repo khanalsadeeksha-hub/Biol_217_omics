@@ -1,0 +1,4 @@
+layers	total_reads_mapped	num_INDELs_reported	total_reads_kept	num_SNVs_reported
+BGR_130305_mapped_sorted	3144770	2122	3144770	171434
+BGR_130527_mapped_sorted	3358632	3602	3358632	268832
+BGR_130708_mapped_sorted	4183942	3363	4183942	275614

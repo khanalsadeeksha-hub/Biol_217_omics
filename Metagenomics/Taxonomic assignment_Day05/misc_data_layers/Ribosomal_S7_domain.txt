@@ -1,0 +1,4 @@
+layers	Ribosomal_S7_domain!Archaea	Ribosomal_S7_domain!Bacteria
+BGR_130305_mapped_sorted	20.8556651083462	360.087441671785
+BGR_130527_mapped_sorted	9.98930481283423	353.320589779483
+BGR_130708_mapped_sorted	8.96087361158952	425.144763882303

@@ -1,0 +1,2 @@
+cluster	size	representative	genomes
+cluster_000001	1	MAG_21	MAG_21
