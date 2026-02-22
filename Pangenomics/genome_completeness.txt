@@ -1,0 +1,9 @@
+genome name	domain	confidence	% completion	% redundancy	num_splits	total length
+V_jascida_12	BACTERIA	1.0	100.00	5.63	282	5814827
+V_jascida_13	BACTERIA	1.0	100.00	5.63	283	5812569
+V_jascida_14	BACTERIA	1.0	100.00	5.63	290	5861661
+V_jascida_47	BACTERIA	1.0	100.00	5.63	282	5821176
+V_jascida_52	BACTERIA	1.0	100.00	21.13	362	6303185
+V_jascida_53	BACTERIA	1.0	100.00	5.63	289	5853972
+V_jascida_55	BACTERIA	1.0	100.00	5.63	289	5857980
+V_jascida_ref	BACTERIA	1.0	100.00	5.63	298	5989523

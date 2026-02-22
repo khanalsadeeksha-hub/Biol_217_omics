@@ -1,0 +1,9 @@
+name	contigs_db_path
+V_jascida_12	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_12.db
+V_jascida_13	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_13.db
+V_jascida_14	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_14.db
+V_jascida_47	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_47.db
+V_jascida_52	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_52.db
+V_jascida_53	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_53.db
+V_jascida_55	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_55.db
+V_jascida_ref	/work_beegfs/sunam231/V_jascida_genomes/V_jascida_ref.db
